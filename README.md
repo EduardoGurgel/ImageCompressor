@@ -1,14 +1,4 @@
-**Final Image Compressor** 
-
-Temas:
- 
- - Final 
- 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 190045485  |  Eduardo Gurgel |
-| 200043111  |  Ricardo de Castro Loureiro |
+Image Compressor
 
 ## Sobre 
 Dado a importância da compresão de dados nos dias atuais, implementamos um Compressor de Imagens que utiliza Grafos e Greed Huffman Codes para a compressão de dados.
